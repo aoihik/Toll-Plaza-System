@@ -1,0 +1,41 @@
+Fare Details (in INR):
+
+CATEGORY 1: Car/Jeep/Three Wheeler/LMV
+
+	    Single journey: 50
+	    Return journey: 75
+	    Monthly pass:   1750
+
+CATEGORY 2: LCV/Tractor with Triller/LGV or Mini Bus
+
+	    Single journey: 75
+	    Return journey: 115
+	    Monthly pass:   2500
+
+CATEGORY 3: Bus/Truck/Road Roller(Two Axles)
+
+	    Single journey: 160
+	    Return journey: 240
+	    Monthly pass:   6500
+
+CATEGORY 4: Three Axles Commercial Vehicle
+
+	    Single journey: 170
+	    Return journey: 255
+	    Monthly pass:   7000
+
+CATEGORY 5: MAV(Four to Six Axles), Heavy Construction Machinery, Earth Moving Equipment
+
+	    Single journey: 245
+	    Return journey: 370
+	    Monthly pass:   10000
+
+CATEGORY 6: Oversized vehicle(Seven or more axles)
+
+	    Single journey: 300
+	    Return journey: 455
+	    Monthly pass:   12000
+
+CATEGORY 7: Exempted vehicles
+
+	    <No amount is to be charged from exempted vehicles. Refer list.>			    
